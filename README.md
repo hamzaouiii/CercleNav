@@ -1,3 +1,4 @@
 # CercleNav
-A Cercle styled navbar with smooth scroll
+A Cercle styled nav with smooth scroll
 Licence: Free to use.
+fcsdfsd

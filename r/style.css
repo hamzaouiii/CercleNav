@@ -1,0 +1,41 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	box-sizing:border-box;
+}
+	p{font-family: "Raleway"; color: black; font-size: 35px;text-align: center; margin-top: 100px;}
+label{font-family: "Raleway" ;font-size:18px; margin-bottom: 20px;  text-align: left;}
+form
+{
+	position: relative;
+	padding-top: 50px;
+	text-align: center;
+	margin-bottom: 100px;
+}
+form input
+{
+	height: 40px;
+	width: 400px;
+	display: list-item;
+	margin: 0 auto;
+	font-family: "Raleway";
+	font-size: 14px;
+	padding: 3px;
+}
+form a:hover
+{
+	border: 1px solid black;
+}
+form a
+{
+	display: inline-block;
+	width: 250px;
+	height: 60px;
+	text-decoration: none;
+	color: white;
+	background-color: tomato;
+	font-family: "Raleway";
+	margin-top:20px;
+	padding: 20px 50px;
+}

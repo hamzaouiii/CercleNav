@@ -6,6 +6,7 @@ h1
 {
 	font-family: "Segoe UI";
 	font-size: 75px;
+	font-weight: lighter;
 	color: white;
 	line-height: 200px;
 	margin: 50px;
@@ -160,7 +161,7 @@ section
 }
 
 .bar1, .bar2, .bar3 {
-    width: 35px;
+    width: 45px;
     height: 5px;
     background-color: #222;
     margin: 6px 0;
